@@ -1,0 +1,3 @@
+c:\users\ericame\documents\visual studio 2015\Projects\BuscarUsuarios\BuscarUsuarios\bin\Debug\BuscarUsuarios.pdb
+c:\users\ericame\documents\visual studio 2015\Projects\BuscarUsuarios\BuscarUsuarios\obj\Debug\BuscarUsuarios.dll
+c:\users\ericame\documents\visual studio 2015\Projects\BuscarUsuarios\BuscarUsuarios\obj\Debug\BuscarUsuarios.pdb
